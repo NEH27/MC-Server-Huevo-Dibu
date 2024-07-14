@@ -1,0 +1,167 @@
+[03:26:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:26:10] [ServerMain/INFO]: Loaded 1290 recipes
+[03:26:10] [ServerMain/INFO]: Loaded 1399 advancements
+[03:26:11] [Server thread/INFO]: Starting minecraft server version 1.21
+[03:26:11] [Server thread/INFO]: Loading properties
+[03:26:11] [Server thread/INFO]: Default game type: SURVIVAL
+[03:26:11] [Server thread/INFO]: Generating keypair
+[03:26:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:26:11] [Server thread/INFO]: Using default channel type
+[03:26:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:26:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:26:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:26:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:26:11] [Server thread/INFO]: Preparing level "world"
+[03:26:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:26:12] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[03:26:12] [Server thread/INFO]: Time elapsed: 251 ms
+[03:26:12] [Server thread/INFO]: Done (0.954s)! For help, type "help"
+[03:27:54] [Server thread/INFO]: /190.173.154.54:61250 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[03:30:40] [Server thread/INFO]: /192.168.1.68:61313 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[03:31:37] [Server thread/INFO]: Qoonikaan[/181.46.166.99:43723] logged in with entity id 104 at (10.403282405710502, 69.0, -3.929413016980467)
+[03:31:37] [Server thread/INFO]: Qoonikaan joined the game
+[03:31:47] [Server thread/INFO]: N_E_H[/192.168.1.68:61340] logged in with entity id 286 at (-0.5, 64.0, -3.5)
+[03:31:47] [Server thread/INFO]: N_E_H joined the game
+[03:32:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-3, y=67, z=-1}
+[03:32:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-3, y=66, z=-1}
+[03:33:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-3, y=65, z=-1}
+[03:33:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-4, y=64, z=-3}
+[03:33:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-5, y=64, z=-3}
+[03:33:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-6, y=64, z=-4}
+[03:33:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-5, y=63, z=-4}
+[03:33:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-5, y=63, z=-4}
+[03:33:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-4, y=63, z=-4}
+[03:33:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-3, y=63, z=-5}
+[03:33:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-5, y=61, z=-6}
+[03:33:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-5, y=62, z=-5}
+[03:33:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-6, y=62, z=-6}
+[03:33:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-5, y=62, z=-7}
+[03:33:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-5, y=61, z=-6}
+[03:33:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-4, y=61, z=-7}
+[03:33:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-4, y=61, z=-6}
+[03:33:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-2, y=63, z=-4}
+[03:33:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=1, y=63, z=-4}
+[03:33:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-2, y=68, z=-10}
+[03:33:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-2, y=68, z=-10}
+[03:33:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-2, y=68, z=-10}
+[03:33:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-2, y=67, z=-10}
+[03:33:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-1, y=66, z=-9}
+[03:35:14] [Server thread/INFO]: N_E_H has made the advancement [Stone Age]
+[03:36:49] [Server thread/INFO]: N_E_H has made the advancement [Getting an Upgrade]
+[03:40:43] [Server thread/INFO]: Qoonikaan has made the advancement [Stone Age]
+[03:46:55] [Server thread/INFO]: N_E_H has made the advancement [Acquire Hardware]
+[03:47:16] [Server thread/INFO]: Qoonikaan has made the advancement [Acquire Hardware]
+[03:50:06] [Server thread/INFO]: Qoonikaan has made the advancement [Getting an Upgrade]
+[03:54:58] [Server thread/INFO]: Qoonikaan has made the advancement [Monster Hunter]
+[03:57:28] [Server thread/INFO]: N_E_H has made the advancement [Best Friends Forever]
+[03:57:47] [Server thread/INFO]: Qoonikaan has made the advancement [Best Friends Forever]
+[04:02:04] [Server thread/INFO]: N_E_H has made the advancement [Monster Hunter]
+[04:02:12] [Server thread/INFO]: Qoonikaan has made the advancement [Sweet Dreams]
+[04:02:46] [Server thread/INFO]: N_E_H has made the advancement [Sweet Dreams]
+[04:24:15] [Server thread/INFO]: N_E_H has made the advancement [Not Today, Thank You]
+[04:26:37] [Server thread/INFO]: Qoonikaan has made the advancement [Not Today, Thank You]
+[04:31:41] [Server thread/INFO]: [Not Secure] <N_E_H> -318 44 309
+[04:43:21] [Server thread/INFO]: Qoonikaan has made the advancement [Isn't It Iron Pick]
+[04:51:32] [Server thread/INFO]: N_E_H has made the advancement [Isn't It Iron Pick]
+[04:56:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[04:56:35] [Server thread/INFO]: HELP<--[HERE]
+[04:56:39] [Server thread/INFO]: /advancement (grant|revoke)
+[04:56:39] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[04:56:39] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[04:56:39] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[04:56:39] [Server thread/INFO]: /clear [<targets>]
+[04:56:39] [Server thread/INFO]: /clone (<begin>|from)
+[04:56:39] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
+[04:56:39] [Server thread/INFO]: /data (merge|get|remove|modify)
+[04:56:39] [Server thread/INFO]: /datapack (enable|disable|list)
+[04:56:39] [Server thread/INFO]: /debug (start|stop|function)
+[04:56:39] [Server thread/INFO]: /defaultgamemode <gamemode>
+[04:56:39] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[04:56:39] [Server thread/INFO]: /effect (clear|give)
+[04:56:39] [Server thread/INFO]: /me <action>
+[04:56:39] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[04:56:39] [Server thread/INFO]: /experience (add|set|query)
+[04:56:39] [Server thread/INFO]: /xp -> experience
+[04:56:39] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[04:56:39] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
+[04:56:39] [Server thread/INFO]: /forceload (add|remove|query)
+[04:56:39] [Server thread/INFO]: /function <name> [<arguments>|with]
+[04:56:39] [Server thread/INFO]: /gamemode <gamemode> [<target>]
+[04:56:39] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnChunkRadius|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[04:56:39] [Server thread/INFO]: /give <targets> <item> [<count>]
+[04:56:39] [Server thread/INFO]: /help [<command>]
+[04:56:39] [Server thread/INFO]: /item (replace|modify)
+[04:56:39] [Server thread/INFO]: /kick <targets> [<reason>]
+[04:56:39] [Server thread/INFO]: /kill [<targets>]
+[04:56:39] [Server thread/INFO]: /list [uuids]
+[04:56:39] [Server thread/INFO]: /locate (structure|biome|poi)
+[04:56:39] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[04:56:39] [Server thread/INFO]: /msg <targets> <message>
+[04:56:39] [Server thread/INFO]: /tell -> msg
+[04:56:39] [Server thread/INFO]: /w -> msg
+[04:56:39] [Server thread/INFO]: /particle <name> [<pos>]
+[04:56:39] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[04:56:39] [Server thread/INFO]: /playsound <sound> [master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[04:56:39] [Server thread/INFO]: /random (value|roll|reset)
+[04:56:39] [Server thread/INFO]: /reload
+[04:56:39] [Server thread/INFO]: /recipe (give|take)
+[04:56:39] [Server thread/INFO]: /return (<value>|fail|run)
+[04:56:39] [Server thread/INFO]: /ride <target> (mount|dismount)
+[04:56:39] [Server thread/INFO]: /say <message>
+[04:56:39] [Server thread/INFO]: /schedule (function|clear)
+[04:56:39] [Server thread/INFO]: /scoreboard (objectives|players)
+[04:56:39] [Server thread/INFO]: /seed
+[04:56:39] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[04:56:39] [Server thread/INFO]: /spawnpoint [<targets>]
+[04:56:39] [Server thread/INFO]: /setworldspawn [<pos>]
+[04:56:39] [Server thread/INFO]: /spectate [<target>]
+[04:56:39] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[04:56:39] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[04:56:39] [Server thread/INFO]: /summon <entity> [<pos>]
+[04:56:39] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[04:56:39] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[04:56:39] [Server thread/INFO]: /teammsg <message>
+[04:56:39] [Server thread/INFO]: /tm -> teammsg
+[04:56:39] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[04:56:39] [Server thread/INFO]: /tp -> teleport
+[04:56:39] [Server thread/INFO]: /tellraw <targets> <message>
+[04:56:39] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
+[04:56:39] [Server thread/INFO]: /time (set|add|query)
+[04:56:39] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[04:56:39] [Server thread/INFO]: /trigger <objective> [add|set]
+[04:56:39] [Server thread/INFO]: /weather (clear|rain|thunder)
+[04:56:39] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[04:56:39] [Server thread/INFO]: /jfr (start|stop)
+[04:56:39] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[04:56:39] [Server thread/INFO]: /banlist [ips|players]
+[04:56:39] [Server thread/INFO]: /ban <targets> [<reason>]
+[04:56:39] [Server thread/INFO]: /deop <targets>
+[04:56:39] [Server thread/INFO]: /op <targets>
+[04:56:39] [Server thread/INFO]: /pardon <targets>
+[04:56:39] [Server thread/INFO]: /pardon-ip <target>
+[04:56:39] [Server thread/INFO]: /perf (start|stop)
+[04:56:39] [Server thread/INFO]: /save-all [flush]
+[04:56:39] [Server thread/INFO]: /save-off
+[04:56:39] [Server thread/INFO]: /save-on
+[04:56:39] [Server thread/INFO]: /setidletimeout <minutes>
+[04:56:39] [Server thread/INFO]: /stop
+[04:56:39] [Server thread/INFO]: /transfer <hostname> [<port>]
+[04:56:39] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[04:57:21] [Server thread/INFO]: Made N_E_H a server operator
+[04:57:57] [Server thread/INFO]: [N_E_H: Saved the game]
+[05:05:46] [Server thread/INFO]: Villager cmk['Villager'/20703, l='ServerLevel[world]', x=-262.70, y=64.00, z=246.66] died, message: 'Villager was slain by Zombie'
+[05:07:07] [Server thread/INFO]: Villager cmk['Leatherworker'/21362, l='ServerLevel[world]', x=-305.66, y=82.00, z=268.50] died, message: 'Leatherworker was slain by Zombie Villager'
+[05:17:40] [Server thread/INFO]: Qoonikaan was shot by Skeleton
+[05:26:34] [Server thread/INFO]: N_E_H was doomed to fall by Zombie
+[05:26:36] [Server thread/WARN]: N_E_H moved too quickly! 233.80000001192093,111.0,-260.2734831187624
+[05:26:36] [Server thread/WARN]: N_E_H moved too quickly! 233.80000001192093,111.0,-260.2734831187624
+[05:26:36] [Server thread/WARN]: N_E_H moved too quickly! 233.80000001192093,111.0,-260.2734831187624
+[05:32:20] [Server thread/INFO]: Qoonikaan has made the advancement [Diamonds!]
+[05:33:42] [Server thread/INFO]: N_E_H was slain by Enderman
+[05:33:44] [Server thread/WARN]: N_E_H moved too quickly! 240.14247889829818,97.0,-237.8807486523133
+[05:33:44] [Server thread/WARN]: N_E_H moved too quickly! 240.14247889829818,97.0,-237.8807486523133
+[05:39:47] [Server thread/INFO]: Qoonikaan has made the advancement [Suit Up]
+[05:40:42] [Server thread/INFO]: N_E_H has made the advancement [Suit Up]
+[05:48:47] [Server thread/INFO]: N_E_H has made the advancement [Diamonds!]
+[06:07:04] [Server thread/INFO]: N_E_H has made the advancement [Take Aim]
+[06:14:26] [Server thread/INFO]: [N_E_H: Saved the game]
